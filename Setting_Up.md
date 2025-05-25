@@ -12,4 +12,5 @@
 - Create a new file called 'app.js' with `touch app.js`
 - Add some lines of code to `app.js`
 - Stage the changes to be sent to git with `git add fileName` or `git add .` to stage all files
-- To check if there are any changes made on the application, use `git status` 
+- To check if there are any unstaged changes made on the application, use `git status` 
+- The next step is to commit the changes before they are pushed to github to be hosted, using `git commit -m 'Any Descriptive Commit Message'`
